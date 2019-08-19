@@ -16,6 +16,7 @@ namespace TrialConsoleAppWithGit
             Console.WriteLine("Do you like ice cream, i can search for where to get the best ice cream around you");
 			Console.WriteLine("Do you like swimming, i can search for places around you");
             Console.WriteLine("cornwall is a nice place");
+            Console.WriteLine("cornwall is a nice place");
         }
     }
 }
